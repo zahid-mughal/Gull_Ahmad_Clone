@@ -3,11 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-### Navbar1
+### 1)Navbar1
 1)from "./style.css"
 2)react bootstrap
 3)for not display in small "d-none d-lg-block d-md-block"
-### 1)Header 
+### 2)logoBar
+just use flex
+
 
 
 
