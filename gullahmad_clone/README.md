@@ -13,9 +13,9 @@ just use flex
 for set some part align right set this part in div and <div className="container d-flex justify-content-end bg-danger">
 
 ### 3)Slider
-install react-bootstrap 
-import Carousel from 'react-bootstrap/Carousel'
-just name image src
+install react-bootstrap .\
+import Carousel from 'react-bootstrap/Carousel'.\
+just name image src.\
 
 
 
