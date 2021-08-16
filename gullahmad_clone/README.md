@@ -9,6 +9,9 @@ for not display only in small:  d-none d-lg-block d-md-block
 ### 2)logoBar
 just use flex
 
+### 3)navBar2
+for set some part align right set this part in div and <div className="container d-flex justify-content-end bg-danger">
+
 In the project directory, you can run:
 
 ### `npm start`
