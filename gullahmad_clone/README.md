@@ -12,6 +12,36 @@ just use flex
 ### 3)navBar2
 for set some part align right set this part in div and <div className="container d-flex justify-content-end bg-danger">
 
+### 3)Slider
+install react-bootstrap 
+import Carousel from 'react-bootstrap/Carousel'
+just name image src
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 In the project directory, you can run:
 
 ### `npm start`
@@ -75,4 +105,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

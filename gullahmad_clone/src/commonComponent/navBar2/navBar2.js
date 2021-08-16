@@ -4,7 +4,7 @@ import {Navbar,Nav,NavDropdown,Form,FormControl,Button} from 'react-bootstrap'
 
 function NavBar2(){
     return(
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="light" expand="lg p-0 m-0" >
   {/* <Navbar.Brand href="#">Navbar scroll</Navbar.Brand> */}
   <Navbar.Toggle aria-controls="navbarScroll" />
   <Navbar.Collapse id="navbarScroll">
