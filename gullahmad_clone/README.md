@@ -3,39 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-### 1)Navbar1
-1)from "./style.css"
-2)react bootstrap
-3)for not display in small "d-none d-lg-block d-md-block"
+### 1)Header 
+for not display only in small:  d-none d-lg-block d-md-block
+
 ### 2)logoBar
 just use flex
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- In the project directory, you can run:
+In the project directory, you can run:
 
 ### `npm start`
 
@@ -98,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
